@@ -1,0 +1,20 @@
+Description de fonctionnalité:
+experience_level : niveau d'expérience professionnelle (par exemple, junior, mid, senior).
+
+employ_type : Type de contrat de travail (par exemple, temps plein, temps partiel, contrat).
+
+job_title : le rôle ou le titre spécifique de l'employé (par exemple, Data Engineer).
+
+salaire : La rémunération reçue, dans la devise d'origine.
+
+salaire_currency : la devise dans laquelle le salaire est payé.
+
+Salaire_in_usd : Le salaire converti en dollars américains à des fins de comparaison.
+
+Employee_residence : emplacement où réside l'employé.
+
+remote_ratio : Pourcentage de travail effectué à distance.
+
+company_location : La situation géographique de l’entreprise.
+
+company_size : taille de l'entreprise, souvent basée sur le nombre d'employés.
